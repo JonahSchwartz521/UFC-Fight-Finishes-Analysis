@@ -32,7 +32,6 @@ This project examines **UFC fight finishes from 1994 to 2023**, focusing on tren
 │   ├── main_dashboard.twbx
 
 ## How to View the Project
-View the Tableau Dashboard
   1. Download main_dashboard.twbx from this repository.
   2. Open it using Tableau Desktop (any version that supports .twbx files).
   3. Interact with the visualizations to explore UFC fight finish trends!
