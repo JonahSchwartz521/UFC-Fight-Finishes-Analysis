@@ -12,7 +12,7 @@ This project examines **UFC fight finishes from 1994 to 2023**, focusing on tren
 - The dataset was **cleaned, merged, and standardized** to ensure accurate analysis.
 
 ## Methods & Tools
-- **Data Cleaning & Merging**: Python, Pandas, **Excel**
+- **Data Cleaning & Merging**: Python, Pandas, Excel**
 - **Visualization**: Tableau
 - **Data Analysis**: Aggregation of finishes by year, weight class, and type
 
