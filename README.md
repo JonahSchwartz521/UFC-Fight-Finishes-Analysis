@@ -38,7 +38,7 @@ This project examines **UFC fight finishes from 1994 to 2023**, focusing on tren
   3. Interact with the visualizations to explore UFC fight finish trends!
 
 ## Limitations & Future Work
-- **Data Mapping Issue:** Some fight finishes were categorized correctly in weight-class analysis but left uncategorized in the trends-over-time visualization. This does not impact key insights but could be improved in future iterations.
+- **Data Mapping Issue:** There was a data mapping issue where certain fight finishes were properly categorized in the weight-class analysis but remained uncategorized in the trends-over-time visualization. While this does not affect key insights, refining the categorization process in future iterations could further enhance accuracy.
 - **More Granular Data:** Expanding the dataset with fight-by-fight details could provide deeper insights into how finish rates evolve based on fighter styles.
 - **Machine Learning Predictions:** Future work could involve predicting fight outcomes based on historical data.
 
