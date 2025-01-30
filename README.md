@@ -18,20 +18,18 @@ This project examines **UFC fight finishes from 1994 to 2023**, focusing on tren
 
 
 ## Repository Structure
-
-📂 UFC-Fight-Finishes-Analysis/
-│── **README.md**   
-│── **finish_sum_by_weight.ipynb**
-│── **finishing_trends_over_time.ipynb**
-│── 📂 data/  
-│   ├── ufc_fight_data.csv
-│   ├── clean_df_fighters.csv
-│   ├── ufc_event_data.csv
-│   ├── ufc_fight_data copy.csv
-│   ├── ufc_fight_stat_data.csv
-│   ├── full_writeup.pdf
-│── 📂 visuals/
-│   ├── main_dashboard.twbx
+- **README.md**  
+- **finish_sum_by_weight.ipynb**  
+- **finishing_trends_over_time.ipynb**  
+- 📂 **data/**
+  - ufc_fight_data.csv  
+  - clean_df_fighters.csv  
+  - ufc_event_data.csv  
+  - ufc_fight_data copy.csv  
+  - ufc_fight_stat_data.csv  
+  - full_writeup.pdf  
+- 📂 **visuals/**
+  - main_dashboard.twbx  
 
 
 ## How to View the Project
